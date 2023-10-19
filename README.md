@@ -3,9 +3,9 @@
 This repository contains the documentation and resources related to our design thinking approach for improving the user experience of our food delivery app. We follow a structured design thinking process to create a user-centered, innovative solution to address the challenges faced by our users.<br>
 
 <h1>Project Goals</h1>
-1.Enhance the user experience by addressing pain points and user needs.<br>
-2.Create an app that is intuitive, efficient, and enjoyable to use.<br>
-3.Innovate and differentiate ourselves in the competitive food delivery market.<br>
+<b>1.</b>Enhance the user experience by addressing pain points and user needs.<br>
+<b>2.</b>Create an app that is intuitive, efficient, and enjoyable to use.<br>
+<b>3.</b>Innovate and differentiate ourselves in the competitive food delivery market.<br>
 
 <h1>Design Thinking Process</h1>
 Our project follows the traditional design thinking process, including the following key phases:<br>
